@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345725860752",
+    "project_id": "gymhelperreal",
+    "storage_bucket": "gymhelperreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345725860752:android:c0a910456967af6467d115",
+        "android_client_info": {
+          "package_name": "com.arnav.gym_app_real"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0u5aLmklcGwunyGbzR7mVHhHHiKJhHWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
