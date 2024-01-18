@@ -1,16 +1,7 @@
 # gym_app_real
 
-A new Flutter project.
+Gym helper app. Tracks daily protein/carbs/calories consumption and weekly workout schedule. Also uses google maps API to display nearby gyms. 
+Firebase auth and Firestore used for back end data basing. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If running thorugh emulator, input connection is lost if you type into the emulator's keyboard using a physical keyboard. Keyboard must be clicked through emulator. 
+This app is built upon the Pixel XL API 34 emulator. Other emulators/devices may cause layout issues.
